@@ -1,0 +1,8 @@
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: fixed;
+    top: -400px;
+    left: -50px;
+    min-width: 100%; 
+    min-height: 100%;
+}
